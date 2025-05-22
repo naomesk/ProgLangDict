@@ -1,6 +1,3 @@
 [submodule "Python"]
 	path = Python
 	url = https://github.com/naomesk/Python.git
-[submodule "Java"]
-	path = Java
-	url = https://github.com/naomesk/Java.git
